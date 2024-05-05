@@ -1,4 +1,4 @@
-![Masterhead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+  <img src="animation_top.gif">
   <h1 align="center">Hi 👋, I'm Bushaan Gunatilake</h1>
   <h3 align="center">Hello! 👋 I'm a Computer Science undergrad passionate about front-end development and machine learning. Currently crafting immersive web experiences, I explore the endless possibilities of pixels and algorithms. 👨‍💻✨</h3>
   <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
