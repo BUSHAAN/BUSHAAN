@@ -15,9 +15,20 @@
 
   <h1 align="left">Connect with me:</h1>
   <p align="left">
-  <a href="https://linkedin.com/in/bushaangunatilake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bushaangunatilake" height="30" width="40" /></a>
-  <a href="https://fb.com/bushaan gunatilake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bushaan gunatilake" height="30" width="40" /></a>
-  <a href="https://instagram.com/bushaan_gunatilake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bushaan_gunatilake" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/bushaangunatilake" target="_blank" style="margin-right: 12px;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+           height="30" alt="" style="vertical-align: middle;" />
+    </a>
+  
+    <a href="https://fb.com/bushaangunatilake" target="_blank" style="margin-right: 12px;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+           height="30" alt="" style="vertical-align: middle;" />
+    </a>
+  
+    <a href="https://instagram.com/bushaan_gunatilake" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+           height="30" alt="" style="vertical-align: middle;" />
+    </a>
   </p>
 
   
